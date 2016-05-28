@@ -1,0 +1,22 @@
+|kontrolDevresi
+Ya <= inst.DB_MAX_OUTPUT_PORT_TYPE
+G => inst.IN0
+G => inst20.IN0
+G => inst4.IN0
+G => inst8.IN1
+G => inst6.IN2
+yukleA => inst.IN1
+yukleA => inst1.IN0
+Yk <= inst20.DB_MAX_OUTPUT_PORT_TYPE
+yukleK => inst20.IN2
+yukleK => inst2.IN0
+s <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+ara => inst4.IN3
+ara => inst3.IN0
+w <= inst6.DB_MAX_OUTPUT_PORT_TYPE
+yaz => inst7.IN0
+yaz => inst6.IN3
+r <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+oku => inst8.IN5
+
+

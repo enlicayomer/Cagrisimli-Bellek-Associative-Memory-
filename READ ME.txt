@@ -1,0 +1,5 @@
+icerigi adreslenebilir bellek tasarýmý.
+Quartus kullanýlarak mikro olarak tasarlanmýþtýr.
+Altera FPGA da calýstýrýlýp yazma-arama-okuma islemleri yapýlmýþtýr.
+
+2016 Mayýs ÖMER ENLÝÇAY

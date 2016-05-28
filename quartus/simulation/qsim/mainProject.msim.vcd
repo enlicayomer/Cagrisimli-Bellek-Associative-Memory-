@@ -1,0 +1,205 @@
+$comment
+	File created using the following command:
+		vcd file mainProject.msim.vcd -direction
+$end
+$date
+	Tue May 10 15:49:37 2016
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module mainProject_vlg_vec_tst $end
+$var reg 1 ! Ad0 $end
+$var reg 1 " Ad1 $end
+$var reg 1 # ara $end
+$var reg 1 $ clock $end
+$var reg 1 % G $end
+$var reg 1 & input0 $end
+$var reg 1 ' input1 $end
+$var reg 1 ( oku $end
+$var reg 1 ) yaz $end
+$var reg 1 * yukleA $end
+$var reg 1 + yukleK $end
+$var wire 1 , cikis0 $end
+$var wire 1 - cikis1 $end
+$var wire 1 . OAd0 $end
+$var wire 1 / OAd1 $end
+$var wire 1 0 var $end
+$var wire 1 1 sampler $end
+$scope module i1 $end
+$var wire 1 2 gnd $end
+$var wire 1 3 vcc $end
+$var wire 1 4 unknown $end
+$var tri1 1 5 devclrn $end
+$var tri1 1 6 devpor $end
+$var tri1 1 7 devoe $end
+$var wire 1 8 cikis0~output_o $end
+$var wire 1 9 cikis1~output_o $end
+$var wire 1 : var~output_o $end
+$var wire 1 ; OAd1~output_o $end
+$var wire 1 < OAd0~output_o $end
+$var wire 1 = yukleK~input_o $end
+$var wire 1 > yukleA~input_o $end
+$var wire 1 ? G~input_o $end
+$var wire 1 @ clock~input_o $end
+$var wire 1 A inst6|inst30~combout $end
+$var wire 1 B input1~input_o $end
+$var wire 1 C inst6|inst2~q $end
+$var wire 1 D ara~input_o $end
+$var wire 1 E inst4|inst4~combout $end
+$var wire 1 F inst6|inst4~combout $end
+$var wire 1 G inst6|inst4~clkctrl_outclk $end
+$var wire 1 H inst6|inst~q $end
+$var wire 1 I clock~inputclkctrl_outclk $end
+$var wire 1 J inst|inst|inst4~0_combout $end
+$var wire 1 K yaz~input_o $end
+$var wire 1 L Ad0~input_o $end
+$var wire 1 M Ad1~input_o $end
+$var wire 1 N inst4|inst6~0_combout $end
+$var wire 1 O inst|inst8|inst2~combout $end
+$var wire 1 P inst|inst|inst4~q $end
+$var wire 1 Q inst|inst9|inst15~0_combout $end
+$var wire 1 R input0~input_o $end
+$var wire 1 S inst6|inst1~q $end
+$var wire 1 T inst6|inst6~combout $end
+$var wire 1 U inst6|inst3~q $end
+$var wire 1 V inst|inst7|inst4~0_combout $end
+$var wire 1 W inst|inst7|inst4~q $end
+$var wire 1 X inst|inst9|inst15~1_combout $end
+$var wire 1 Y inst|inst4|inst4~0_combout $end
+$var wire 1 Z inst|inst8|inst6~combout $end
+$var wire 1 [ inst|inst4|inst4~q $end
+$var wire 1 \ inst|inst3|inst4~0_combout $end
+$var wire 1 ] inst|inst3|inst4~q $end
+$var wire 1 ^ inst|inst12|inst15~0_combout $end
+$var wire 1 _ inst|inst12|inst15~1_combout $end
+$var wire 1 ` inst3|inst2~q $end
+$var wire 1 a inst|inst6|inst4~0_combout $end
+$var wire 1 b inst|inst8|inst3~combout $end
+$var wire 1 c inst|inst6|inst4~q $end
+$var wire 1 d inst|inst1|inst4~0_combout $end
+$var wire 1 e inst|inst1|inst4~q $end
+$var wire 1 f inst|inst10|inst15~0_combout $end
+$var wire 1 g inst|inst10|inst15~1_combout $end
+$var wire 1 h inst3|inst4~q $end
+$var wire 1 i inst|inst2|inst4~0_combout $end
+$var wire 1 j inst|inst8|inst4~combout $end
+$var wire 1 k inst|inst2|inst4~q $end
+$var wire 1 l inst|inst5|inst4~0_combout $end
+$var wire 1 m inst|inst5|inst4~q $end
+$var wire 1 n inst|inst11|inst15~0_combout $end
+$var wire 1 o inst|inst11|inst15~1_combout $end
+$var wire 1 p inst3|inst300~q $end
+$var wire 1 q oku~input_o $end
+$var wire 1 r inst|inst13|6~0_combout $end
+$var wire 1 s inst|inst13|6~1_combout $end
+$var wire 1 t inst|inst13|6~2_combout $end
+$var wire 1 u inst3|inst1~q $end
+$var wire 1 v inst1|inst~combout $end
+$var wire 1 w inst1|inst12~0_combout $end
+$var wire 1 x inst1|inst19~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+1$
+1%
+0&
+0'
+0(
+0)
+0*
+0+
+0,
+0-
+0.
+0/
+00
+x1
+02
+13
+x4
+15
+16
+17
+08
+09
+0:
+0;
+0<
+0=
+0>
+1?
+1@
+0A
+0B
+0C
+0D
+0E
+0F
+0G
+0H
+1I
+1J
+0K
+0L
+0M
+1N
+0O
+0P
+0Q
+0R
+0S
+0T
+0U
+1V
+0W
+0X
+1Y
+0Z
+0[
+1\
+0]
+0^
+0_
+0`
+1a
+0b
+0c
+1d
+0e
+0f
+0g
+0h
+1i
+0j
+0k
+1l
+0m
+0n
+0o
+0p
+0q
+0r
+0s
+0t
+0u
+0v
+0w
+0x
+$end
+#80000
+1*
+1>
+01
+0N
+1F
+1G
+#1000000
